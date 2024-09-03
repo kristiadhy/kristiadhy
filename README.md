@@ -4,8 +4,8 @@
   <img alt="Hi I'm Kristiadhy, a full stack .Net enginner" src="https://drive.google.com/uc?id=1uNvgMawozvd-hZIIm-wh9zZw87TjSLdA">
 </picture>
 
-## Hi there 👋
-My name is Kristiadhy. I am an experienced Full Stack .NET developer with a proven track record of designing and implementing robust business applications. I am proficient in the use of ASP.NET Core Web API, Blazor, and WinForms to deliver a high-quality and scalable solutions. I have a strong focus on implementing industry best practices for cleaner and more scalable results.
+### Hi there 👋
+**My name is Kristiadhy**. I am an experienced Full Stack .NET developer with a proven track record of designing and implementing robust business applications. I am proficient in the use of ASP.NET Core Web API, Blazor, and WinForms to deliver a high-quality and scalable solutions. I have a strong focus on implementing industry best practices for cleaner and more scalable results.
 
 | No.   | Skills          |
 | :---: | :--- |
