@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/uc?id=1uNvgMawozvd-hZIIm-wh9zZw87TjSLdA">
-  <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/uc?id=1uNvgMawozvd-hZIIm-wh9zZw87TjSLdA">
-  <img alt="Hi I'm Kristiadhy, a full stack .Net enginner" src="https://drive.google.com/file/d/uc?id=1uNvgMawozvd-hZIIm-wh9zZw87TjSLdA">
+  <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/drive-viewer/AKGpihYjCcry_G6GWucOAyExoRo2JHlH0DUV__8lYYO3Jv2Jxkdf9xsJ1Pl6zakyVw1ptU6V5vTsQHQBpGWdZoZFzIXVDqGMqj15m3k=s1600-rw-v1">
+  <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/drive-viewer/AKGpihYjCcry_G6GWucOAyExoRo2JHlH0DUV__8lYYO3Jv2Jxkdf9xsJ1Pl6zakyVw1ptU6V5vTsQHQBpGWdZoZFzIXVDqGMqj15m3k=s1600-rw-v1">
+  <img alt="Hi I'm Kristiadhy, a full stack .Net enginner" src="https://drive.google.com/drive-viewer/AKGpihYjCcry_G6GWucOAyExoRo2JHlH0DUV__8lYYO3Jv2Jxkdf9xsJ1Pl6zakyVw1ptU6V5vTsQHQBpGWdZoZFzIXVDqGMqj15m3k=s1600-rw-v1">
 </picture>
 
 ## Hi there 👋
