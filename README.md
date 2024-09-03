@@ -55,6 +55,5 @@
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kristiadhy&show_icons=true&locale=en" alt="kristiadhy" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kristiadhy&" alt="kristiadhy" />
+[![kristiadhy's GitHub | Stats](https://stats.quira.sh/kristiadhy/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=kristiadhy)
 
