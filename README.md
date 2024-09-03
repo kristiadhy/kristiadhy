@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1uNvgMawozvd-hZIIm-wh9zZw87TjSLdA/view?usp=sharing">
-  <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/1uNvgMawozvd-hZIIm-wh9zZw87TjSLdA/view?usp=sharing">
-  <img alt="Hi I'm Kristiadhy, a full stack .Net enginner" src="https://drive.google.com/file/d/1uNvgMawozvd-hZIIm-wh9zZw87TjSLdA/view?usp=sharing">
+  <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/id=1uNvgMawozvd-hZIIm-wh9zZw87TjSLdA">
+  <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/id=1uNvgMawozvd-hZIIm-wh9zZw87TjSLdA">
+  <img alt="Hi I'm Kristiadhy, a full stack .Net enginner" src="https://drive.google.com/file/d/id=1uNvgMawozvd-hZIIm-wh9zZw87TjSLdA">
 </picture>
 
 ## Hi there 👋
