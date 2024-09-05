@@ -9,8 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristiadhy&label=Profile%20views&color=0e75b6&style=flat" alt="kristiadhy" /> </p>
 
-- 🌱 I’m currently learning **Angular**
-
+- 📖 You can read my blog on [HashNode](https://kristiadhy.hashnode.dev)
 - 📫 How to reach me **cheezeadhy@gmail.com**
 
 [![kristiadhy's GitHub | Stats](https://stats.quira.sh/kristiadhy/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=kristiadhy)
