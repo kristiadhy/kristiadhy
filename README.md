@@ -10,6 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristiadhy&label=Profile%20views&color=0e75b6&style=flat" alt="kristiadhy" /> </p>
 
 - 📖 You can read my blog on [HashNode](https://kristiadhy.hashnode.dev)
+- 👩🏻‍💻 My software development services [BionDigital](https://biondigital.id)
 - 📫 How to reach me **cheezeadhy@gmail.com**
 
 [![kristiadhy's GitHub | Stats](https://stats.quira.sh/kristiadhy/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=kristiadhy)
